@@ -1,0 +1,83 @@
+Advice for people with diabetes and their families
+Savefor later Page saved! You can go back to this later in your Diabetes and
+### DIY systems are getting more popular for treating Type 1 diabetes.
+If you’re interested in using a DIY closed loop system then we have put
+together an idea of what you can expect. But before you go ahead with starting
+with a DIY closed loop system (also called an artificial pancreas), make sure
+## What is a DIY closed loop system?
+A DIY closed loop system is a way to manage your diabetes. There are three
+systems, OpenAPS, Loop and AndroidAPS. They use the following pieces of tech:
+* small computer and battery pack (Open APS only)
+* phone (loop needs an iPhone, Android, APS needs an Android phone)
+* pump communication device, aka Rileylink (loop only). 
+The idea is that this group of technology works together to behave in a way
+Your CGM will send your blood sugar levels to the looping programme and that
+will then tell your insulin pump how much insulin you need. It does this by
+using an algorithm that has been tested by a community of users.
+Some of the technology that you’ll use might come from your healthcare team.
+But you also might have to pay for it. The cost of a DIY closed loop system
+## Why use a DIY closed loop system?
+The reason for using a DIY closed loop system (looping) is that you think it
+can help you manage your diabetes better. While the technology isn’t approved
+by regulators, people who use DIY say their HbA1c has improved and they spend
+more time in their blood sugar range. That means they see and feel a positive
+You might also find that having diabetes is less of a burden when you use
+looping. That’s because a lot of the work of managing your diabetes will be
+taken from you by the system. And the DIY community can be very supportive
+from the emotional side of diabetes to the technical part of DIY. They won’t
+build your DIY for you, but they’re there to help with any queries.
+You have a CGM and an insulin pump and you make the two talk to each other.
+The CGM you’re already using will tell you what your blood sugar level is but
+it won’t tell your pump how much insulin you need. The idea behind DIY looping
+General advice would be to get your devices to talk to each other first and
+once you’re confident that’s working you’ll take the next step to let the pump
+takeover. That means you set up your CGM and insulin pump separate from each
+other first and then add the steps to make them work as one system.
+The algorithms act as the translator between your CGM, insulin pump and
+device. Without the algorithm you can’t get the two to work together. The
+software required is free and community support is available to help you.
+The algorithms aren’t clinically tested and are only available through the
+community of DIY users. You download the algorithms from one of the community
+websites and then install it on your small computer (a raspberry pi or
+similar). This device will then act as the communicator between your CGM and
+## Is a DIY closed loop system safe?
+The main issue with safety and the DIY closed loop system is that it isn’t
+regulated. And that means you can’t guarantee its safety. So at the moment
+using a DIY closed loop system is at your own risk.
+Another safety problem is the system is relying on technology that can go
+wrong. And if you’re using a closed loop system to manage your diabetes and it
+goes wrong, you could see sudden changes to your blood sugar levels.
+If you want to use looping to manage your diabetes, then make sure you tell
+your healthcare team. It’s important they know how you plan on managing your
+diabetes so they can give you the best support. They won’t be able to advise
+you on how to manage your diabetes using a DIY system. But they shouldn’t take
+your CGM or insulin pump away from you just because you’re closed looping.
+If you do choose to loop then you should still get your 15 healthcare
+essentials every year. And you and your healthcare team should still be
+The DIY community can give you the information you need to build your closed
+loop system step-by-step. But you should be confident with using pump therapy
+before getting started. You need to make sure you have your insulin management
+spot on and already be using a pump and CGM with confidence.
+We can’t recommend DIY closed loop systems because they aren’t regulated and
+don’t have any robust medical research to show that they are safe effective.
+But people who wish to use them should continue to get support and care from
+their diabetes team. Healthcare professionals cannot recommend their use, and
+people using this technology must be aware that they do so at their own risk.
+We also have a more detailed statement on DIY closed looping.
+If you’re looking for an alternative to DIY that is regulated, then you might
+want to look at the Medtronic MiniMed™670G. It’s the first insulin pump that
+uses a hybrid closed loop system to treat Type 1 diabetes.
+There are also other alternatives to DIY that will be coming out in the next
+few years. The Tandem IQ is due out in the United States at the end of this
+year and currently available in some parts of the UK.
+Someone is diagnosed with diabetes every two minutes. Your donation can change
+Savefor later Page saved! You can go back to this later in your Diabetes and
+* Opens a new window for Diabetes UK on facebook
+* Opens a new window for Diabetes UK on Twitter
+* Opens a new window for Diabetes UK on youtube
+* Opens a new window for Diabetes UK on instagram
+© The British Diabetic Association operating as Diabetes UK, a **** charity
+registered in England and Wales (no. 215199) and in Scotland (no. SC039136). A
+company limited by guarantee registered in England and Wales with
+(no.00339181) and registered office at Wells Lawrence House, 126 Back Church
+Brand Icons/Telephone check - FontAwesome   " " Header icons/tick icons/uk
